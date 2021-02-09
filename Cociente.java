@@ -1,11 +1,13 @@
-public class Cociente {
-	
 	/**
 	 * @author alexandra
 	 * @version 1.0
 	 * @since 06/02/2021
 	 *
 	 */
+
+public class Cociente {
+	
+	
 	
 	private double real1, real2, solucion; // Numeros reales. La solucion siempre será un double
 	private int num1, num2; // Numeros enteros

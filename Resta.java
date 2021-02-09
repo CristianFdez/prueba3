@@ -1,11 +1,14 @@
-public class Resta {
-	
 	/**
+	 * ENTORNOS DE DESARROLLO
+	 * Actividad 1. Tarea en equipo (4 personas). Generación de documentación
+	 * Clase 2 - Resta 
 	 * @author Cristian Fernández
 	 * @version 1.0
 	 * @since 05/02/2021
 	 */
-	
+
+public class Resta {
+
 	/**
 	 * Declaro varios valores para hacer las operaciones de resta,
 	 * 3 valores reales y 2 enteros, y resultado como valor de la solución.

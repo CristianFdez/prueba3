@@ -1,5 +1,3 @@
-public class Suma {
-	
 	/**
 	 * Entorno de desarollo 
 	 * Actividad 1. Tarea en equipo 4 personass. Generación de documentación
@@ -8,8 +6,9 @@ public class Suma {
 	 * @version 1.0
 	 * 
 	 */
-	
-	
+
+public class Suma {
+
 
 	/**
 	 * declaro las variables para hacer las operaciones de suma
